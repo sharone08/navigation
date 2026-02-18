@@ -1,0 +1,86 @@
+{
+  "vaisseau": "Ares Genesis",
+  "mission_id": "MSN-002",
+  "releves": [
+    {
+      "timestamp": "2028-07-20T08:00:00Z",
+      "phase": "lancement",
+      "altitude_km": 0,
+      "vitesse_km_s": 0,
+      "carburant_pct": 100.0,
+      "temperature_cabine_c": 22.1,
+      "cap_degres": 90.0,
+      "systemes": {"propulsion": "nominal", "support_vie": "nominal", "navigation": "nominal", "communication": "nominal"}
+    },
+    {
+      "timestamp": "2028-07-20T08:05:00Z",
+      "phase": "ascension",
+      "altitude_km": 85,
+      "vitesse_km_s": 2.3,
+      "carburant_pct": 94.7,
+      "temperature_cabine_c": 23.8,
+      "cap_degres": 88.5,
+      "systemes": {"propulsion": "nominal", "support_vie": "nominal", "navigation": "nominal", "communication": "nominal"}
+    },
+    {
+      "timestamp": "2028-07-20T08:12:00Z",
+      "phase": "orbite_terrestre",
+      "altitude_km": 400,
+      "vitesse_km_s": 7.66,
+      "carburant_pct": 82.3,
+      "temperature_cabine_c": 22.5,
+      "cap_degres": 45.0,
+      "systemes": {"propulsion": "nominal", "support_vie": "nominal", "navigation": "nominal", "communication": "nominal"}
+    },
+    {
+      "timestamp": "2028-07-20T10:30:00Z",
+      "phase": "injection_trans_mars",
+      "altitude_km": 420,
+      "vitesse_km_s": 11.2,
+      "carburant_pct": 68.1,
+      "temperature_cabine_c": 24.0,
+      "cap_degres": 32.7,
+      "systemes": {"propulsion": "nominal", "support_vie": "nominal", "navigation": "alerte_mineure", "communication": "nominal"}
+    },
+    {
+      "timestamp": "2028-07-21T00:00:00Z",
+      "phase": "croisiere",
+      "altitude_km": 52000,
+      "vitesse_km_s": 11.1,
+      "carburant_pct": 67.8,
+      "temperature_cabine_c": 21.9,
+      "cap_degres": 31.2,
+      "systemes": {"propulsion": "nominal", "support_vie": "nominal", "navigation": "nominal", "communication": "nominal"}
+    },
+    {
+      "timestamp": "2028-08-15T12:00:00Z",
+      "phase": "croisiere",
+      "altitude_km": 28500000,
+      "vitesse_km_s": 10.8,
+      "carburant_pct": 65.2,
+      "temperature_cabine_c": 22.3,
+      "cap_degres": 30.9,
+      "systemes": {"propulsion": "nominal", "support_vie": "alerte_mineure", "navigation": "nominal", "communication": "degradee"}
+    },
+    {
+      "timestamp": "2028-12-01T06:00:00Z",
+      "phase": "croisiere",
+      "altitude_km": 112000000,
+      "vitesse_km_s": 10.5,
+      "carburant_pct": 61.4,
+      "temperature_cabine_c": 19.8,
+      "cap_degres": 29.5,
+      "systemes": {"propulsion": "nominal", "support_vie": "nominal", "navigation": "nominal", "communication": "nominal"}
+    },
+    {
+      "timestamp": "2029-04-10T18:00:00Z",
+      "phase": "approche_mars",
+      "altitude_km": 224000000,
+      "vitesse_km_s": 5.2,
+      "carburant_pct": 42.7,
+      "temperature_cabine_c": 21.0,
+      "cap_degres": 15.3,
+      "systemes": {"propulsion": "alerte_mineure", "support_vie": "nominal", "navigation": "nominal", "communication": "nominal"}
+    }
+  ]
+}

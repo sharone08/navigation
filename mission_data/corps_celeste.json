@@ -1,0 +1,11 @@
+{
+  "corps_celestes": [
+    {"nom": "Terre", "type": "planete", "distance_soleil_mkm": 149.6, "rayon_km": 6371, "gravite_m_s2": 9.81, "atmosphere": true, "satellites_principaux": ["Lune"]},
+    {"nom": "Lune", "type": "satellite", "distance_soleil_mkm": 149.6, "rayon_km": 1737, "gravite_m_s2": 1.62, "atmosphere": false, "satellites_principaux": []},
+    {"nom": "Mars", "type": "planete", "distance_soleil_mkm": 227.9, "rayon_km": 3389, "gravite_m_s2": 3.72, "atmosphere": true, "satellites_principaux": ["Phobos", "Deimos"]},
+    {"nom": "Jupiter", "type": "planete", "distance_soleil_mkm": 778.5, "rayon_km": 69911, "gravite_m_s2": 24.79, "atmosphere": true, "satellites_principaux": ["Io", "Europe", "Ganymède", "Callisto"]},
+    {"nom": "Europe", "type": "satellite", "distance_soleil_mkm": 778.5, "rayon_km": 1560, "gravite_m_s2": 1.31, "atmosphere": false, "satellites_principaux": []},
+    {"nom": "Saturne", "type": "planete", "distance_soleil_mkm": 1434.0, "rayon_km": 58232, "gravite_m_s2": 10.44, "atmosphere": true, "satellites_principaux": ["Titan", "Encelade", "Mimas"]},
+    {"nom": "Titan", "type": "satellite", "distance_soleil_mkm": 1434.0, "rayon_km": 2574, "gravite_m_s2": 1.35, "atmosphere": true, "satellites_principaux": []}
+  ]
+}

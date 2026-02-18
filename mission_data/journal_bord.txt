@@ -1,0 +1,8 @@
+[2028-07-20 08:00] LANCEMENT — Décollage nominal. Tous systèmes go.
+[2028-07-20 08:05] ASCENSION — Passage Mach 3. Vibrations dans les tolérances.
+[2028-07-20 08:12] ORBITE — Insertion orbitale confirmée. Altitude 400 km.
+[2028-07-20 10:30] TMS — Injection trans-Mars réussie. Alerte mineure navigation corrigée.
+[2028-07-21 00:00] CROISIERE — Mode croisière activé. Équipage au repos.
+[2028-08-15 12:00] CROISIERE — Alerte support vie : filtre CO2 secondaire à remplacer. Communication dégradée.
+[2028-12-01 06:00] CROISIERE — Mi-parcours. Correction de trajectoire effectuée. Delta-V : 0.3 km/s.
+[2029-04-10 18:00] APPROCHE — Mars en visuel. Alerte propulsion mineure : valve pressuriseur.

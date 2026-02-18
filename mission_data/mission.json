@@ -1,0 +1,55 @@
+
+{
+  "missions": [
+    {
+      "id": "MSN-001",
+      "nom": "Artemis IV",
+      "destination": "Lune",
+      "date_lancement": "2026-09-15",
+      "statut": "planifiée",
+      "equipage": ["Cmdt. Elena Vasquez", "Dr. Kenji Tanaka", "Ing. Fatou Diallo"],
+      "duree_jours": 21,
+      "budget_millions_usd": 4200
+    },
+    {
+      "id": "MSN-002",
+      "nom": "Ares Genesis",
+      "destination": "Mars",
+      "date_lancement": "2028-07-20",
+      "statut": "en_preparation",
+      "equipage": ["Cmdt. Yuri Petrov", "Dr. Amara Osei", "Ing. Lucas Fernandez", "Dr. Mei Chen"],
+      "duree_jours": 680,
+      "budget_millions_usd": 18500
+    },
+    {
+      "id": "MSN-003",
+      "nom": "Europa Probe",
+      "destination": "Europe (Jupiter)",
+      "date_lancement": "2029-03-10",
+      "statut": "conception",
+      "equipage": [],
+      "duree_jours": 2190,
+      "budget_millions_usd": 5600
+    },
+    {
+      "id": "MSN-004",
+      "nom": "Titan Explorer",
+      "destination": "Titan (Saturne)",
+      "date_lancement": "2031-11-05",
+      "statut": "conception",
+      "equipage": [],
+      "duree_jours": 2920,
+      "budget_millions_usd": 7800
+    },
+    {
+      "id": "MSN-005",
+      "nom": "Helios Station",
+      "destination": "Orbite solaire",
+      "date_lancement": "2027-01-22",
+      "statut": "planifiée",
+      "equipage": ["Cmdt. Sofia Lindqvist", "Dr. Rashid Al-Farsi"],
+      "duree_jours": 365,
+      "budget_millions_usd": 3100
+    }
+  ]
+}
